@@ -135,16 +135,6 @@ Full-stack booking platform with RESTful APIs for scheduling and availability ch
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatsatish03&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatsatish03&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatsatish03&theme=default&hide_border=true" height="160"/>
-</p>
 
 ---
 

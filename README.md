@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · Blockchain Engineer · Cybersecurity Enthusiast</b><br/>
-  Final Year CS Student @ KL University, Hyderabad · GPA: 8.7/10
+  Final Year CS Student @ KL University, Hyderabad · GPA: 8.73/10
 </p>
 
 <p align="center">

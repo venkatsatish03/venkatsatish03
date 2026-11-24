@@ -119,7 +119,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 ENIGMA
+### 🏢 [ENIGMA](https://github.com/venkatsatish03/Enigma)
 <sub>**Currently building** · GenAI Works Open Agent Hackathon 2026</sub>
 
 Multi-agent, multi-tenant property management and financial reconciliation SaaS. Specialist agents for documents, leases, vendor AP, maintenance and compliance, coordinated by an orchestrator. **297 automated tests passing.**

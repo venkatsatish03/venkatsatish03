@@ -147,7 +147,7 @@ One typed or spoken sentence in, one complete door-to-door journey out. Auto-hea
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [OjasRaksha](https://github.com/venkatsatish03)
+### 🏥 [OjasRaksha](https://github.com/venkatsatish03/Ojasraksha)
 <sub>Provisional Patent Pending · Springer IC-SQITS 2026 paper</sub>
 
 Patient-controlled medical records platform with consent-based access control, role-based dashboards for 5 stakeholder types, and immutable audit logs. Privacy enforced via off-chain encrypted storage, aligned with GDPR and DPDP principles.

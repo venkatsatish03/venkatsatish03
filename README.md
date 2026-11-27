@@ -31,7 +31,7 @@
 
 🏥 Co-inventor of **OjasRaksha**, a decentralized, patient-controlled healthcare data platform *(Provisional Patent Pending · Springer IC-SQITS 2026 paper submitted)*
 
-🤖 Also built multi-agent systems: **EZRA** (Hedera) and **Tavira** (AI travel planner)
+🤖 Also built multi-agent systems: **Tavira** (AI travel planner)
 
 🌱 Learning: **AWS & Azure** architecture, advanced **Solidity**, **CompTIA CySA+**
 
